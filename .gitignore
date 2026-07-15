@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本仓库只发布修复代码，不收录游戏或汉化资源。
+01001DC01486A000/
+Fixed_Patch_Output/
+Backup_before_*/
+*.mrg
+*.hed
+*.nam
+*.xci
+*.nsp
+*.nca
+*.nro
+*.ips
+*.keys
+prod.keys
+title.keys
+*.zip
+*.rar
+*.7z
+*.log
+
+# 本地安装与审计记录可能包含绝对路径。
+INSTALL_RESULT.json
+BACKUP_MANIFEST.json
+BNTX_FIX_MANIFEST.json

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "repair": "bntx_bc7_compatibility",
+  "title_id": "01001DC01486A000",
+  "source_patch_version": "3.0",
+  "validated_environment": {
+    "emulator": "Ryujinx",
+    "emulator_reported_version": "1.3.3",
+    "emulator_product_version": "1.3.3+e2143d4",
+    "emulator_windows_file_version": "1.3.3.0",
+    "emulator_executable_sha256": "cc8826b9ed4a72299c4db48fae077f5a3e659bb03671b7c40cb094d8e727cde0",
+    "switch_firmware_version": "21.2.0"
+  },
+  "source_sha256": {
+    "CHS.hed": "b4b1c10a7683ad14f56dadac7faa590708965222cdd91ce2551e04d22eab5c1e",
+    "CHS.mrg": "e1b262c2f62c7ec868d975959890f1a192f848f750268181574d55677a8cbb32",
+    "CHS.nam": "262c7b564fad8b1ead3fadae1e277f3dc4736163f44a900cf2a75a575d8b22dd"
+  },
+  "output_sha256": {
+    "CHS.hed": "99fecad8a4eba2da1af23d3a6f3aae1045d53c60d18bb96469cb290901006a57",
+    "CHS.mrg": "48ab6f98d579cb33816e3ad8ae52a104108c0845769c93e7138bb15d03f8146a",
+    "CHS.nam": "262c7b564fad8b1ead3fadae1e277f3dc4736163f44a900cf2a75a575d8b22dd"
+  },
+  "archive_entries": 225,
+  "bntx_archives": 216,
+  "texture_records": 569,
+  "affected_bntx_archives": 124,
+  "normalized_textures": 436,
+  "changed_decompressed_metadata_bytes": 872,
+  "pure_bntx_archives_byte_identical": 92,
+  "output_flags": {
+    "0x01": 455,
+    "0x07": 0,
+    "0x09": 114
+  },
+  "payload_records_identical": 569,
+  "payload_aggregate_sha256": "28c011781983830d8ec0ac8a6216fed53d98eac1891bbd55e53d90e533696a12",
+  "title_archive_indices": [207, 208],
+  "title_archive_textures_each": 15,
+  "title_archive_layouts": [1, 2, 4],
+  "title_archive_duplicates_identical": true
+}
